@@ -12,7 +12,7 @@ There are 730 rows and 16 columns in the data set. There are no null values in a
 # Interepretation of results
 Analysing the above model, the comapany should focus on the following features:
 
-    Company should focus on expanding business during Spring.
+Company should focus on expanding business during Spring.
 Company should focus on expanding business during September.
 Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
 There would be less bookings during Light Snow or Rain, they could probably use this time to serive the bikes without having business impact.
@@ -21,9 +21,9 @@ Hence when the situation comes back to normal, the company should come up with n
 # Conclusion
 Significant variables to predict the demand for shared bikes
 
-**holiday**
-**temp**
-**hum**
-**windspeed**
-**Season**
+    * holiday
+    * temp
+    * hum
+    * windspeed
+    * Season
   
